@@ -1,0 +1,20 @@
+body{
+	background-image:url("https://drmohans.com/wp-content/uploads/2019/08/Doctor-patient-Relationship.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	object-fit: cover;
+	
+
+}
+
+i{
+	font-size: 48px;
+}
+
+.text{
+	font-weight: 800;
+	letter-spacing: 2px;
+	font-size: 4rem;
+	text-align: center;
+}
